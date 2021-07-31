@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudasCapacitacion.chm
+Contents file=Ayudass.hhc
+Default Window=Ayuda Capacitación
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+Ayuda Capacitación="Ayuda para la capacitación.","Ayudass.hhc",,"Capacitacion-General.html","Conexión-ODBC.html","Conexión-C_.html","Conexión-C_","Conexión-Java.html","Conexión-Java",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Capacitacion-General.html
+Conexión-C_.html
+Conexión-Java.html
+Conexión-ODBC.html
+
+[INFOTYPES]
+
